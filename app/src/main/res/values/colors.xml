@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#FF4081</color> <!-- 원하는 색상 값으로 변경 -->
+    <color name="magenta">#FF00FF</color>
+    <color name="holo_red_light">#F44336</color>
+    <color name="holo_blue_light">#03A9F4</color>
+    <color name="holo_green_light">#8BC34A</color>
+    <color name="holo_orange_light">#FF9800</color>
+    <color name="holo_purple">#9C27B0</color>
+    <color name="holo_yellow">#FFEB3B</color>
+    <color name="holo_brown">#795548</color>
+    <color name="holo_dark_blue">#1976D2</color>
+    <color name="holo_red_dark">#D32F2F</color>
+    <color name="holo_blue_dark">#0288D1</color>
+    <color name="holo_green_dark">#388E3C</color>
+    <color name="holo_orange_dark">#F57C00</color>
+    <color name="holo_purple_dark">#7B1FA2</color>
+    <color name="holo_yellow_dark">#FBC02D</color>
+    <color name="holo_brown_dark">#3E2723</color>
+    <color name="holo_dark_green">#1B5E20</color>
+
+    <color name="color_blue">#2196F3</color>
+    <color name="color_green">#4CAF50</color>
+    <color name="color_red">#F44336</color>
+    <color name="color_orange">#FF9800</color>
+    <color name="color_purple">#9C27B0</color>
+    <color name="color_teal">#009688</color>
+    <color name="color_yellow">#FFEB3B</color>
+    <color name="color_brown">#795548</color>
+</resources>
