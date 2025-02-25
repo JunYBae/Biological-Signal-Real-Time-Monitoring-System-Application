@@ -33,4 +33,4 @@
 ## ⚙️ 설치 방법  
 1. 레포지토리 클론  
 ```bash
-git clone https://github.com/your-username/biological-signal-monitoring-app.git
+git clone https://github.com/JunYBae/Biological-Signal-Real-Time-Monitoring-System-Application.git
