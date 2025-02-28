@@ -33,3 +33,9 @@
 1. 레포지토리 클론  
 ```bash
 git clone https://github.com/JunYBae/Biological-Signal-Real-Time-Monitoring-System-Application.git
+```
+## 📚 사용 메뉴얼
+
+PDF 문서를 다운로드하여 자세한 내용을 확인해보세요:
+
+[![View PDF](https://img.shields.io/badge/View%20PDF-%23FF4C4C?style=for-the-badge&logo=adobe&logoColor=white)](menual.pdf)
